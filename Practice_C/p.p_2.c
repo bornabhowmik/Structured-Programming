@@ -12,7 +12,7 @@ int main()
     printf("%d\n", sum);
     printf("%d\n", sub);
     printf("%d\n", mul);
-    printf("%f\n", div);
+    printf("%.2f\n", div);
 
     return 0;
 }
