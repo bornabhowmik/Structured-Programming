@@ -12,11 +12,6 @@ int main(){
         next=a+1;
         printf("%c\n", next);
     }
-    else{
-        printf("%c\n");
-    }
 
     return 0;
-
-    // printf("%c", a+1);
 }
